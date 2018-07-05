@@ -1,0 +1,94 @@
+ 
+#header{
+width:1400px;
+height:150px;
+Background-color:#F8F8FF;
+ Display:block;
+}
+#divforlogo{
+	width:100px;
+height:150px;
+Background-color:#F8F8FF;
+ display:block;
+ float:left;
+}
+#divformenu{
+	width:1300px;
+height:150px;
+Background-color: #F8F8FF;
+ display:block;
+	float:left;
+}
+#whole{
+width:100px;
+height:100px;
+Background-color:Blue;
+display:block;
+}
+#body{
+	width:1400px;
+height:1000px;
+ 
+	 border: 1px solid white;
+	 Background-color:#e6ffcc;
+}
+#left{
+width:298px;
+height:998px;
+	 display:block;
+	 border: 1px solid black;
+	 float:left;
+}
+#center{
+width:298px;
+height:998px;
+display:block;
+border: 1px solid black;
+  float:left;
+}
+#right{
+width:798px;
+height:998px;
+  display:block;
+ border: 1px solid black;
+ float:left;
+}
+#footer{
+ height:100px;
+ width:1400px;
+ Background-color:gray;
+ float:left;
+ display:inline;
+}
+#mylist{
+	margin-left:250px;
+	margin-top:120px;
+}
+#leftlist{
+	 margin-top:120px;
+	 float:left;
+	 display:block;
+	}
+#leftlist li{
+ margin-top:25px;
+ border: 1px solid white;
+ height:20px;
+ width:120px;
+ text-align:center;
+}
+#mylist li{
+	margin-left:20px;
+	color:black;
+	float:left;
+     border: 1px solid white;
+ height:20px;
+ width:120px;
+ text-align:center;
+}
+a:hover{
+    cursor: alias;
+	Background-color:white;
+	border: 1px solid black;
+};
+	
+ 

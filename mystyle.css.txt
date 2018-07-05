@@ -1,0 +1,17 @@
+body{
+width:100px;
+height:100px;
+Background-color:Red;
+
+}
+#whole{
+
+
+}
+#body{}
+#left{
+}
+#right{
+
+
+}
